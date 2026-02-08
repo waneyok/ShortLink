@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wnk\\Desktop\\Short_Link\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549905AB-A976-42C6-A6D8-A0AE20FE9655}|Short_Link\\Short_Link.csproj|c:\\users\\wnk\\desktop\\short_link\\short_link\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549905AB-A976-42C6-A6D8-A0AE20FE9655}|Short_Link\\Short_Link.csproj|solutionrelative:short_link\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549905AB-A976-42C6-A6D8-A0AE20FE9655}|Short_Link\\Short_Link.csproj|c:\\users\\wnk\\desktop\\short_link\\short_link\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{549905AB-A976-42C6-A6D8-A0AE20FE9655}|Short_Link\\Short_Link.csproj|solutionrelative:short_link\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wnk\\Desktop\\Short_Link\\Short_Link\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Short_Link\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wnk\\Desktop\\Short_Link\\Short_Link\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Short_Link\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T07:25:01.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wnk\\Desktop\\Short_Link\\Short_Link\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Short_Link\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wnk\\Desktop\\Short_Link\\Short_Link\\MainWindow.xaml",
+              "RelativeToolTip": "Short_Link\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-08T06:25:19.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

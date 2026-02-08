@@ -1,0 +1,16 @@
+C:\Users\wnk\Desktop\Short_Link\Short_Link\bin\Debug\Short_Link.exe.config
+C:\Users\wnk\Desktop\Short_Link\Short_Link\bin\Debug\Short_Link.exe
+C:\Users\wnk\Desktop\Short_Link\Short_Link\bin\Debug\Short_Link.pdb
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.csproj.AssemblyReference.cache
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\MainWindow.g.cs
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\App.g.cs
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link_MarkupCompile.cache
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link_MarkupCompile.lref
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\MainWindow.baml
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.g.resources
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.Properties.Resources.resources
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.csproj.GenerateResource.cache
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.csproj.CoreCompileInputs.cache
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.exe
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.pdb
+C:\Users\wnk\Desktop\Short_Link\Short_Link\obj\Debug\Short_Link.exe.config
